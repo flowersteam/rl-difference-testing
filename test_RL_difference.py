@@ -1,6 +1,6 @@
 """
 Codebase for the paper: How Many Random Seeds? Statistical Power Analysis in Deep Reinforcement Learning Experiments.
-Here we implement three functions:
+Here we implement five functions:
 
 1) welch_test: performs Welch's t-test at significance level alpha. Wraps around ttest_ind function of scipy. See
 function documentation.
