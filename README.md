@@ -21,4 +21,5 @@ documentation for details.
 values of the effect size epsilon. See function documentation for details.
 
 author: Cédric Colas
+
 contact: cedric.colas@inria.fr
