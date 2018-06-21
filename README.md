@@ -20,6 +20,6 @@ documentation for details.
 5) plot_beta: takes as input the output of compute_beta and allows to plot beta as a function of the sample size, for various
 values of the effect size epsilon. See function documentation for details.
 
-author: Cédric Colas
+Author: Cédric Colas
 
-contact: cedric.colas@inria.fr
+Contact: cedric.colas@inria.fr
